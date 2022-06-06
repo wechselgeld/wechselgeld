@@ -1,4 +1,4 @@
-# Hello! I'm Derock - aka [ItzDerock](https://youtube.com/itzderock) 👋
+# Hello, Bonjour, Hej, Hallo, Hola 👋
 
 ### I'm a backend developer, designer, social media guru and a Discord bot developer!
 - 📚 I'm currently learning Go, TypeScript, and frontend development
